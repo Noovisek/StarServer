@@ -1,2 +1,3 @@
-# StarServer
-StarServer – the ultimate operating system designed for high-performance servers. Reliable, fast, and built for modern server management.
+# ⭐ StarServer ⭐ 
+🚀 Fast | 🛡️ Reliable | ⚡ Efficient | 🖥️ Modern
+The ultimate OS built for high-performance servers!
